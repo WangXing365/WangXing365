@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Codeforces Rating](https://cfrating.ihcr.top/?user=ouuan&style=flat-square)
+![Codeforces Rating](https://cfrating.ihcr.top/?user=WangXing365&style=flat-square)
 
 ![](http://antzuhl.cn:4000/get/@WangXing365)
 
