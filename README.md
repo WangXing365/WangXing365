@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 [![WangXing365's github stats](https://github-readme-stats.vercel.app/api?username=WangXing365)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangXing365&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
