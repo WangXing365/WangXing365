@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ![WangXing365's github stats](https://github-readme-stats.vercel.app/api?username=WangXing365&show_icons=true&theme=radical)
 
-![WangXing365's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![WangXing365's github stats](https://github-readme-stats.vercel.app/api?username=WangXing365&show_icons=true)
