@@ -1,5 +1,8 @@
 ### Hi there 👋
-![](http://antzuhl.cn:4000/get/@WangXing365.readme)
+
+![Codeforces Rating](https://cfrating.ihcr.top/?user=ouuan&style=flat-square)
+
+![](http://antzuhl.cn:4000/get/@WangXing365)
 
 **WangXing365/WangXing365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
