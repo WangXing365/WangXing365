@@ -6,7 +6,7 @@
 
 你好，我是 WangXing365，
 
-如果你想聊聊技术或者交个朋友，可以给我 [发邮件](mailto:guest.google@qq.com)。
+如果你想聊聊技术或者交个朋友，可以给我 发邮件📫：<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=QyQ2JjA3bSQsLCQvJgMlLDsuIiovbSAsLg" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png"/></a>。
 
 <!--
 
