@@ -1,5 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 
-![WangXing365's github stats](https://github-readme-stats.vercel.app/api?username=WangXing365&show_icons=true&theme=monokai)
+### 🚀 WangXing365
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangXing365&layout=compact&theme=monokai)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=WangXing365&show_icons=true&theme=monokai" />
+
+你好，我是 WangXing365，
+
+如果你想聊聊技术或者交个朋友，可以给我 [发邮件](mailto:guest.google@qq.com)。
